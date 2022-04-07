@@ -1,0 +1,45 @@
+<div>
+    {{-- If your happiness depends on money, you will never be happy with yourself. --}}
+    <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="166px" height="242px" viewBox="0 0 166 242" enable-background="new 0 0 166 242" xml:space="preserve">  <image id="image0" width="166" height="242" x="0" y="0"
+        href="data:image/png;base64,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
+    AAAASUVORK5CYII=" />
+    </svg>
+</div>
